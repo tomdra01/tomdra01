@@ -1,6 +1,6 @@
 # 📲 Welcome to my github! 
 
-![mario kart](https://user-images.githubusercontent.com/114875545/214147474-af518fc2-b900-428e-a18f-ec5d2b35276b.gif)
+![effect](https://user-images.githubusercontent.com/114875545/214147633-8e483a25-b0b2-47a4-b6b2-92a2fd4b9b51.gif)
 
 # 📫 About Me:
 🙋🏼‍♂️ Computer science student<br>📚 Learning **java**
