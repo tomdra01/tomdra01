@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomáš Dračka</h1>
+<h1 align="center">Hi, I'm Tomas 👋🏻 👨🏼‍💻</h1>
 
 ![github_profile](https://user-images.githubusercontent.com/114875545/214131925-08cf921a-7188-4d60-b556-2d8fc54413aa.gif)
 
