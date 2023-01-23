@@ -3,7 +3,7 @@
 ![github_profile](https://user-images.githubusercontent.com/114875545/214133716-158816f0-f192-4f8e-ba1d-92224ce7b138.gif)
 
 # 📫 About Me:
-📚 Learning **java**<br>🙋🏼‍♂️ Computer science student<br>📍 From Slovakia
+📚 Learning **java**<br>🙋🏼‍♂️ Computer science student
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomáš-dračka-a5aa16253) 
