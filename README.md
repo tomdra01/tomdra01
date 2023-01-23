@@ -1,8 +1,7 @@
 # 📲 Welcome to my github!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdra01&label=Profile%20views&color=0e75b6&style=flat" alt="tomdra01" /> </p>
 
 ![github_profile](https://user-images.githubusercontent.com/114875545/214133716-158816f0-f192-4f8e-ba1d-92224ce7b138.gif)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdra01&label=Profile%20views&color=0e75b6&style=flat" alt="tomdra01" /> </p>
 
 # 💫 About Me:
 📚 I'm currently learning **java**
