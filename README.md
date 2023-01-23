@@ -2,6 +2,8 @@
 
 ![github_profile](https://user-images.githubusercontent.com/114875545/214133716-158816f0-f192-4f8e-ba1d-92224ce7b138.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdra01&label=Profile%20views&color=0e75b6&style=flat" alt="tomdra01" /> </p>
+
 # 💫 About Me:
 📚 I'm currently learning **java**
 🙋🏼‍♂️ **Computer science** student
@@ -16,6 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=tomdra01&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tomdra01&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdra01&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdra01&label=Profile%20views&color=0e75b6&style=flat" alt="tomdra01" /> </p>
