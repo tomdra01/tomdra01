@@ -1,6 +1,6 @@
 # 📲 Welcome to my github! 
 
-![effect](https://user-images.githubusercontent.com/114875545/214147633-8e483a25-b0b2-47a4-b6b2-92a2fd4b9b51.gif)
+![pixel](https://user-images.githubusercontent.com/114875545/214147705-3ac7e569-2ae4-4b99-be21-2070b08733bb.gif)
 
 # 📫 About Me:
 🙋🏼‍♂️ Computer science student<br>📚 Learning **java**
