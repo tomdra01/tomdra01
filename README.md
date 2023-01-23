@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tomas 👋🏻 👨🏼‍💻</h1>
 
-![github_profile](https://user-images.githubusercontent.com/114875545/214131925-08cf921a-7188-4d60-b556-2d8fc54413aa.gif)
+![200w](https://user-images.githubusercontent.com/114875545/214132975-fca05103-feb4-4b18-8a98-b2e8595917e1.gif)
 
 <h3 align="center">Computer science student</h3>
 
