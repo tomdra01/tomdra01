@@ -15,4 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=tomdra01&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tomdra01&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdra01&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![octocat-1674518789708](https://user-images.githubusercontent.com/114875545/214180228-69d09743-7e60-4d8b-ae4e-20cf941f57cd.png)
