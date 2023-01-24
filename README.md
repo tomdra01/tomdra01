@@ -1,4 +1,4 @@
-# 📲 Welcome to my github! 
+# 📲 Welcome to my GitHub profile! 
 
 ![github_profile](https://user-images.githubusercontent.com/114875545/214147808-44fc4639-e9c8-45b3-b635-17f7a3654a37.gif)
 
