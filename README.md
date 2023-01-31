@@ -16,5 +16,3 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tomdra01&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdra01&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-![mario kart](https://user-images.githubusercontent.com/114875545/215722831-8992c5a6-e726-4754-93a0-20de9d102f6c.gif)
